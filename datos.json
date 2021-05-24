@@ -1,0 +1,37 @@
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "nombre": "Luis Garcia",
+    "correo": "Luisgarcia@starblock.com",
+    "estado": "Disponible"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "nombre": "Mailyn Herrera",
+    "correo": "Maylinherrera@starblock.com",
+    "estado": "Ausente"
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "nombre": "Yuranis Gonzales",
+    "correo": "Yuranisgonzales@starblock.com",
+    "estado": "Sin conexion"
+  },
+  {
+    "postId": 1,
+    "id": 4,
+    "nombre": "Alberto Morales",
+    "correo": "Albertomorales@starblock.com",
+    "estado": "Disponible"
+  },
+  {
+    "postId": 1,
+    "id": 5,
+    "nombre": "Jose Dominguez",
+    "correo": "Josedominguez@starblock.com",
+    "estado": "Ausente"
+  }
+] 
